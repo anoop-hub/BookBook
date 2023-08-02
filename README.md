@@ -1,2 +1,2 @@
 # BookBook
-NOTE
+NOTEs
